@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Computer vision (Image, Video restoration / enhancement), ML engineering, Data engineering, kubernetes
+- 🔭 I’m currently working on Computer vision and Audio Deep Learning.
+- Also interstined in MLOps, Data engineering, Infra(k8s)
 
 <!--
 **PyoJunCode/pyojuncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
